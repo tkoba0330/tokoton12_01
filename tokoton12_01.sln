@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tokoton12_01", "tokoton12_0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tokoton12_02", "tokoton12_02\tokoton12_02.csproj", "{83D6B337-5F4B-457E-92A5-06A9BAEB3BB7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tokoton12_03", "tokoton12_03\tokoton12_03.csproj", "{BBDA7FB3-2701-49CB-97F3-7120CC037020}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tokoton12_04", "tokoton12_04\tokoton12_04.csproj", "{100237C0-7953-40CF-BB12-EA85AC9F4C32}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{83D6B337-5F4B-457E-92A5-06A9BAEB3BB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83D6B337-5F4B-457E-92A5-06A9BAEB3BB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83D6B337-5F4B-457E-92A5-06A9BAEB3BB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBDA7FB3-2701-49CB-97F3-7120CC037020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBDA7FB3-2701-49CB-97F3-7120CC037020}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBDA7FB3-2701-49CB-97F3-7120CC037020}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBDA7FB3-2701-49CB-97F3-7120CC037020}.Release|Any CPU.Build.0 = Release|Any CPU
+		{100237C0-7953-40CF-BB12-EA85AC9F4C32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{100237C0-7953-40CF-BB12-EA85AC9F4C32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{100237C0-7953-40CF-BB12-EA85AC9F4C32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{100237C0-7953-40CF-BB12-EA85AC9F4C32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
